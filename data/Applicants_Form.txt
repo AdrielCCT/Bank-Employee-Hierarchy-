@@ -1,0 +1,41 @@
+# Bank employee data: Name,Manager Type,Department
+Aoife Murphy,Team Lead,Customer Service
+Sarah Mitchell,Staff Member,HR
+Jakub Nowak,Team Lead,Customer Service
+Isabella Costa,Supervisor,Risk and Compliance
+Hannah Becker,Supervisor,HR
+Patrick Walsh,Team Lead,Retail Banking
+Yuki Tanaka,Staff Member,Customer Service
+Rafael Santos,Staff Member,IT
+Mohammed Rahman,Team Lead,Finance
+Ana Beatriz Souza,Team Lead,Risk and Compliance
+Julia Kowalski,Staff Member,Customer Service
+Margaret O'Brien,Branch Manager,Retail Banking
+Laura Schmidt,Staff Member,Risk and Compliance
+Tomas Silva,Supervisor,IT
+Felix Hartmann,Staff Member,Finance
+Oliver Brennan,Supervisor,Loans and Mortgages
+Zoe Hamilton,Staff Member,Customer Service
+Elena Petrova,Staff Member,Finance
+Pedro Oliveira,Staff Member,Loans and Mortgages
+Maria Fernandez,Staff Member,Retail Banking
+Fatima Zahra,Supervisor,Customer Service
+Conor Ryan,Staff Member,Retail Banking
+Emma Johansson,Team Lead,HR
+Ciara Quinn,Staff Member,HR
+Orla Nolan,Staff Member,Risk and Compliance
+Grace Kelly,Supervisor,Retail Banking
+Priya Sharma,Senior Manager,IT
+Daniel Fitzgerald,Senior Manager,Finance
+Amina Okafor,Staff Member,Customer Service
+Liam Doyle,Supervisor,Finance
+Sean Kavanagh,Staff Member,Retail Banking
+Diego Ramirez,Staff Member,Loans and Mortgages
+Kevin Byrne,Staff Member,Finance
+Carlos Almeida,Team Lead,IT
+Bruno Carvalho,Staff Member,IT
+Sophie Laurent,Senior Manager,Risk and Compliance
+Lucas Moreira,Senior Manager,Loans and Mortgages
+Arjun Patel,Staff Member,IT
+Chiara Romano,Team Lead,Loans and Mortgages
+Niamh Gallagher,Supervisor,Retail Banking
